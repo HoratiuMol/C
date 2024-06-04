@@ -1,0 +1,58 @@
+Computers are dumb machines
+    They only do what theyre told told
+
+basic operations of a PC will be kwno as a "Instruction set"
+
+To solve a problem using a pc you provide the solution by sending instructtions to the instructtions
+
+algorithm->how to solve a problem
+
+the test is the one that proves the algorithm
+
+TO write a program u need to implement the algorithm    
+    expressend in the statement of a particula computer language, java, c++, objective-c, or c
+
+CPU(Central processing unit)
+    does most of ttthe work
+    innstruction are exectued here
+
+Ram(Random access memory)
+    stores the data of a program while it is running
+    memory is much faster than storing it in a hard drive, but it has limitations
+
+Hard drive(permanent storage)
+    stores files that containt hte program source code, even if the pC is off
+
+fetch/execute Cycle (life of a CPU)
+    fettches an isntruction from memory (using registers) and executttes it(loop)
+    A gigahertz CPU can ddo this about a billion times a second
+
+
+High Level programming languages
+        make it easier to understand languages
+            opposite of assembly language
+            C is a higer level programming langauge thatt describes actions in a more abstractt form
+            the instructions(statemns) looks more like solving problems (no need to memorize just understand the language)
+            no worry about a particular set of steps a CPU would solve the problem
+        
+    Compilers
+        A program that translaates tthe high-level language source code into the detailed set of machine language instructions the pc requires
+        the program does the high-level thinking and the compilere generates the tediious instroncttions to the CPU
+        will alos check if the program has a valid syntax for the programming language
+            find errors and reports tthem to you and doesn't produce an executable until u fix them
+        
+    Much easier to learn and program
+
+Writting a program
+    1.Define the objectives
+        Requirements
+        clear idea
+            2.Design the program
+                meet the requirementts
+                interface be like
+                program be organized
+                    3.Writte the code
+                        4.Compile
+                            5.Run the program
+                                6.Test and debug the program
+                                    7.Maintain and modify the program
