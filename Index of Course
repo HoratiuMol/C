@@ -1,0 +1,52 @@
+c
+    Efficient portable, power and flexible
+    programmer oriented
+    imperative language, top-down planning, structured programming and moddular design
+    advantages
+        small, fast programs, reliable, easy to learn and understand
+    Modern cross-platform integrated development environment to write, edit and debug ur code
+    C Concepts
+        Structure a program, comments, outpus using printf
+    Makefiles
+        How to build
+    Variables
+        Declaring and using
+    Data Types
+        int, float double, chart, enums and type definitions
+    Basic operator
+        logical, arithemtci and assignament
+    Conditional Statements
+        making decisiones(if,switch)
+    Repeating codde
+        looping(for,while and do-while)
+    Arrays
+        definint and intialind, multi-dimensional(matrix, spreadsheet)
+    Functinos
+        Declaration and use, arguments and parameter, call by value vs cxall by reference
+    Debugging
+        call stack, common mistakes, understanding compiler messages
+    Structs
+        Initialin, nested structures, variants
+    Character Strings
+        Basci, arrays of charts, characters operations
+    Pointers(most important concept of this course)(managing our own memory, big deal)
+        Definition and sue, using funcionts and arrays, malloc, pointer arithmetic
+    The Preprocessor
+        #define, #include
+    Input and outpus
+        Getchar, scanf
+    File inputt/output
+        reading and writing to a file, file operations
+    Standart C library
+        Sting funcionts, math functions, utility functions, standdar headr files
+    
+Course Outcomes
+    Able to write begginer C programs
+    Fundamentalk aspectts of C languages
+    Write efficient, high quality C code    
+        moddular
+        low coupling
+    Able to find and fix your own errors
+        Understand compiler messages
+    Understand aspects of the C programming language
+    
