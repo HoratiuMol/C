@@ -56,3 +56,7 @@ Writting a program
                             5.Run the program
                                 6.Test and debug the program
                                     7.Maintain and modify the program
+
+Most C code is based on C89
+C99 is not as much adopted as C89 by Compilers
+Current Standart is referre to as c11
