@@ -60,3 +60,53 @@ Writting a program
 Most C code is based on C89
 C99 is not as much adopted as C89 by Compilers
 Current Standart is referre to as c11
+
+Langauge Features
+    C produces compact and eficient programs
+    C most used programming language
+    Main Features   
+        Efficietn
+        Portable
+        Powerful and Flexible
+        Programmer Oriented
+            Efficiente
+                Advantage of the cpabilities of current computer
+                c programs are fast and compact(similar to asembly)
+                programmers can fine-tune programs for maximun speedd or most efficient use of memory
+            Portable
+                Wrritten on one system can be run on another system whit little or no moddificatin
+                a ladder in protability
+                compilers are available for many computers architectures
+            Linux/Unix comes witth a C compilere
+                Compielrs are avaialble for PC
+            Powerful
+                Linux/Unix kernes is written in c
+                Many compilers for other programs have been written in c
+                Solving phisics and engineering problems and even for FX in movies
+            Flexibility
+                developet to create all u can image
+                games and operating systems
+                it is basic for more advanced languages such as C++
+                Mobile apps in form of Objective c(iOS)
+                Easy to learn because of compactness
+                knowledge for practical aplication development very quick and very easy
+            Program Oriented
+                gives u access to hardware
+                enables you to manipualte individual bits of memory
+                Manage own memory
+                Large selection of operators wich allows you to express youserlf succinctly
+                C gives u more freedome, but you are the responsible of errors and mistakes
+                large library of useful C functions
+                deal with common need of most programmers
+            Other Features  
+                Low lvl features provided by the Lower level languages
+                manage memory representation at bit levelwide variety of bit manipulation operators
+                Pointers give direct access to memory
+                Support efficient use of Pointers
+
+        DDisadvantages
+            Flexibvility vs freedmo.
+            Pointers may be problematic and abused
+            Programming errors that are difficult to trace
+            Langauge difficult to read and follow(sometimes)
+            chance to write obscure code
