@@ -1,0 +1,55 @@
+Fundamental Tasks in the cretion of any C program   
+    Editing
+    Compiling
+    Linking
+    Executing
+
+These tasks will become second nature since you are doing them so often
+Linkin more aware than in other languages
+
+Editing
+    Creating the code. Source code inside of a fiel
+    choose a name for your base file name
+    we will use an IDE(code block) but you can use any program to createh code (notepad, sublime, visual,etc.)
+    We wil use CodeBloks(I will use Visual or not, ill try to link it to git)
+
+Compiler
+    converts your source code into machine language and detects errors
+    input is your file,
+    Two stage processing
+        preprocessing phase->code may be modified or added to
+        compilation-> generates the object code
+    Recognizes structural errors(dead code)
+    does not fin logic errors
+    typical errores reported might be due to an expression that has unbalanced parentheses (syntatic) or due to the use of a variable that is not "defined"(semantic)
+    Translate to asembly language  into actual machine instructions
+    Output is also known as "object code" and is store in object files (.obj or .o extensino)
+    standart comand to compile you C programs will be CC(or the GNU compiler, which is .gcc)
+        cc -c myprog.c or gcc -c myprog.C
+        if you omit the -c flag your program will automatically be linked as well
+
+Linking
+    After compilingand having the object code, it is ready for Linking
+    The purpose of this phase is to get the program into a final form for execution on the PC
+    linking usually occurs auttomatically when compiling depending on what system you are on, but, sometimes can be a separate comand
+    This combines the module generator whit additional libraries needed by the program to creathe the whole executalbe
+    also detects and reports erroresif any partt is missing or a nonexisten library coimponent is referenced
+    Program libraries support and extends the C language by providing routines t ocarry out operations that are not part of the language.
+    input and output libraries, mathematical libraries, string manipulation libraries
+    failer-> go back and edit source code
+    Succes-> .exe extension 
+    If program has significatn size  will consist of several source code files-> each sourrce file need the compiler to generate the .obj output
+    Easier to manipualte if broke down into many pieces, more cohesive the dev andd maintainance.
+
+Executing
+    open the .exe
+    if statement is ran in order
+    if dat ais requested->pause unttil you introduce the info or data
+    If prodeuces output, you see it on the tterminal or consoel
+    Generate errors conditions
+        The wwrong output 
+        just sitting there and ddo nothing (logic issues)
+        crash the PC (sometthing really bad and the program or other programms died)
+    Reeditt, reorganize, redesign -> debugging phase
+
+    Search for the "Beginning C, Horton" diagram 
