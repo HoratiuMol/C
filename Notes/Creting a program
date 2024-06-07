@@ -53,3 +53,9 @@ Executing
     Reeditt, reorganize, redesign -> debugging phase
 
     Search for the "Beginning C, Horton" diagram 
+
+    https://cygwin.com/install.html
+
+    page where u can download the Linux simulator
+        then you must introduce to the System environmetn variables->path->(the rout) C:\cygwin64\bin
+    
